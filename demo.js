@@ -1,4 +1,5 @@
 $(document).ready(function(e) {
+
     var canvas = document.getElementById("canvas");
     var ctx = canvas.getContext("2d");
     var c = $("#canvas");
